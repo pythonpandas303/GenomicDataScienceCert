@@ -1,2 +1,2 @@
 # GenomicDataScienceCert
-######Code for GenomicDataScienceCert
+Code for GenomicDataScienceCert
